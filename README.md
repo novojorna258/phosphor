@@ -1,1 +1,1 @@
-Update H1 in Explorer API docs (#7813)
+Fix docker.yaml double-quote version bug (#7452)
