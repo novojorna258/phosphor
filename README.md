@@ -1,1 +1,1 @@
-Fix Neural Magic links (#9144)
+Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
