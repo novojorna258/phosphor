@@ -1,1 +1,1 @@
-Add type hinting to explorer.py (#7388)
+ultralytics 8.0.231 use new pyproject.toml (#7185)
