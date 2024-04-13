@@ -1,1 +1,1 @@
-Fix bbox2segment converter (#7814)
+Move Explorer tests to scheduled CI (#8305)
