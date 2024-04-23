@@ -1,1 +1,1 @@
-YOLOv8 INT8 TFLite Inference Example (#7317)
+Add line counting and circular heatmaps in Ultralytics Solutions (#7113)
