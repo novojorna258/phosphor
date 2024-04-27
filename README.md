@@ -1,1 +1,1 @@
-Merge pull request #22 from SkalskiP/patch-1
+Add docstrings to new HUB functions (#7576)
