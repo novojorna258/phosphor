@@ -1,1 +1,1 @@
-Improve Docs arguments tables (#8415)
+ultralytics 8.1.25 fix **kwargs: (dict) warnings (#8815)
