@@ -1,1 +1,1 @@
-Fixed dataloader CPU bottleneck for small batch sizes (#7659)
+Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
