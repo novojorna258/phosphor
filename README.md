@@ -1,1 +1,1 @@
-Avoid creating -hub dir without processing images (#8334)
+Elaborate Train and Predict mode docs arguments (#8137)
