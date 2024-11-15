@@ -1,1 +1,1 @@
-Add polygon regions drawing support in object-counting.md and minor docs update (#8885)
+ultralytics 8.0.232 OpenCV 4.9.0 readonly np.array fix (#7256)
